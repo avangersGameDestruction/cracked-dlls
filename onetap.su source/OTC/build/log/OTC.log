@@ -1,0 +1,14 @@
+﻿  Het systeem kan het opgegeven bestand niet vinden.
+  Het systeem kan het opgegeven bestand niet vinden.
+  'studio' is not recognized as an internal or external command,
+  operable program or batch file.
+  Het systeem kan het opgegeven bestand niet vinden.
+  Het systeem kan het opgegeven bestand niet vinden.
+  Het systeem kan het opgegeven pad niet vinden.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(139,5): error MSB3073: The command "copy D:\visual studio 2019 projects\otc-master\otc-master\OTC\Release\HookLib.lib D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\libs\HookLib.lib
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(139,5): error MSB3073: copy D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\libs\HookLib\HookLib\Release\HookLib.pdb D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\libs\HookLib.pdb
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(139,5): error MSB3073: if not exist D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\objects mkdir D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\objects
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(139,5): error MSB3073: copy D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\libs\HookLib\HookLib\Release\HookLib.obj D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\objects\HookLib.obj
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(139,5): error MSB3073: copy D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\libs\Zydis\msvc\bin\ReleaseX86\Zydis.lib D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\libs\Zydis.lib
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(139,5): error MSB3073: copy "D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\libs\Zydis\msvc\zydis\obj\Zydis-Win32-Release MT\Zydis.pdb" "D:\visual studio 2019 projects\otc-master\otc-master\OTC\libs\libs\Zydis.pdb"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(139,5): error MSB3073: :VCEnd" exited with code 1.
